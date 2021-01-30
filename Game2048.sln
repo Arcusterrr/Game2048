@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game2048", "Game2048\Game2048.csproj", "{91BF2961-BB2C-4E3A-A3F1-67090B5639BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL.Game2048", "BL.Game2048\BL.Game2048.csproj", "{B03A9554-2437-480E-9209-A3917379A98C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{91BF2961-BB2C-4E3A-A3F1-67090B5639BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91BF2961-BB2C-4E3A-A3F1-67090B5639BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91BF2961-BB2C-4E3A-A3F1-67090B5639BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B03A9554-2437-480E-9209-A3917379A98C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B03A9554-2437-480E-9209-A3917379A98C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B03A9554-2437-480E-9209-A3917379A98C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B03A9554-2437-480E-9209-A3917379A98C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
